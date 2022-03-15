@@ -14,7 +14,7 @@ b. resampling: to downsample and upsample datasets
 c. evaluation: to create plots for prediction results.
 d. plot_with_sensor: to create plots of sensor data with bit maps pf ground truth and predicted values
 
-2. data folder: currently empty as Git is not allowing to upload large files.
+2. data folder: contains originial rwhar dataset used for interpretation and analysis.
 
 3. predictions folder:
 
