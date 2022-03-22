@@ -1,0 +1,15 @@
+# Prerequisite information:
+
+Hello!
+
+This tutorial for analysis has been created by using the following process:
+
+1. Train a model on first 15 subjects on 30 epochs (available here as trained_model.sav)
+2. This model will be used to predict how the program will perform on an unseen subject.
+3. In order to check the performance of the program on unseen data, the predict functionality of the program is used to check which activity the 15th subject performed and what the trained model predicted.
+4. These predictions at different frequencies of dataset (50, 25, 12.5 Hz etc by downsampling and upsampling the original dataset) were saved as csv file which is later used to create graphs and hence used for interpretation.
+
+After performing these steps the tutorial can be performed.
+
+Thanks
+
