@@ -3,6 +3,10 @@
 Author: Kartikay Srivastava
 Email: kartikay.srivastava@student.uni-siegen.de
 
+#Link to colab directory:
+
+https://colab.research.google.com/drive/12WIly2AZ1-alxXQu-u78ohhknZ1wVG-Q
+
 Structure of directory:
 
 1. main.py file
